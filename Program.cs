@@ -42,7 +42,7 @@ namespace LearnCSharp
                 Console.Write(i.MyProperty + " ");
                 Console.WriteLine("\nDone");
             }
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
     // Declare 
